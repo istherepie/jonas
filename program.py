@@ -1,5 +1,5 @@
 # BEGYNDER AT KODE ET NYT PROGRAM
 
-message = input("Skriv din besked her: ")
+message = input("Skriv DIN besked: ")
 
 print(message)
