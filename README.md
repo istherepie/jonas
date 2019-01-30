@@ -1,4 +1,4 @@
-= JONAS PROGRAMMERING =
+# JONAS PROGRAMMERING
 
 Jonas er i fuld gang med programmering
 
