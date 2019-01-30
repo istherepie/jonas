@@ -1,5 +1,5 @@
 # BEGYNDER AT KODE ET NYT PROGRAM
 
-print(
-    "Hello World"
-)
+message = input("Skriv din besked her: ")
+
+print(message)
